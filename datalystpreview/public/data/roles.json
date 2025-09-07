@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "generated_at": "2025-09-07T16:18:48.677535+00:00",
+    "k": 20,
+    "currency": "USD",
+    "sort_by": "p50_desc",
+    "min_sample_size": 3
+  },
+  "items": [
+    {
+      "role": "Head of Data",
+      "p25": 102839.0,
+      "p50": 200000.0,
+      "p75": 230000.0,
+      "n": 5
+    },
+    {
+      "role": "Principal Data Engineer",
+      "p25": 192500.0,
+      "p50": 200000.0,
+      "p75": 400000.0,
+      "n": 3
+    },
+    {
+      "role": "Data Architect",
+      "p25": 148900.0,
+      "p50": 180000.0,
+      "p75": 200669.5,
+      "n": 11
+    },
+    {
+      "role": "Analytics Engineer",
+      "p25": 165000.0,
+      "p50": 179850.0,
+      "p75": 189850.0,
+      "n": 4
+    },
+    {
+      "role": "Principal Data Scientist",
+      "p25": 156837.0,
+      "p50": 173762.0,
+      "p75": 227500.0,
+      "n": 7
+    },
+    {
+      "role": "Director of Data Science",
+      "p25": 147756.5,
+      "p50": 168000.0,
+      "p75": 223489.5,
+      "n": 7
+    },
+    {
+      "role": "Applied Data Scientist",
+      "p25": 110037.0,
+      "p50": 157000.0,
+      "p75": 177000.0,
+      "n": 5
+    },
+    {
+      "role": "Machine Learning Scientist",
+      "p25": 118075.0,
+      "p50": 156500.0,
+      "p75": 225000.0,
+      "n": 8
+    },
+    {
+      "role": "Data Science Manager",
+      "p25": 142285.25,
+      "p50": 155750.0,
+      "p75": 178050.0,
+      "n": 12
+    },
+    {
+      "role": "Data Engineering Manager",
+      "p25": 79833.0,
+      "p50": 150000.0,
+      "p75": 153000.0,
+      "n": 5
+    },
+    {
+      "role": "Head of Data Science",
+      "p25": 103750.0,
+      "p50": 138937.5,
+      "p75": 181906.25,
+      "n": 4
+    },
+    {
+      "role": "Lead Data Engineer",
+      "p25": 106916.75,
+      "p50": 121593.5,
+      "p75": 151250.0,
+      "n": 6
+    },
+    {
+      "role": "Data Analytics Manager",
+      "p25": 114640.0,
+      "p50": 120000.0,
+      "p75": 142500.0,
+      "n": 7
+    },
+    {
+      "role": "Lead Data Scientist",
+      "p25": 77785.0,
+      "p50": 115000.0,
+      "p75": 152500.0,
+      "n": 3
+    },
+    {
+      "role": "Data Engineer",
+      "p25": 70039.5,
+      "p50": 105500.0,
+      "p75": 154600.0,
+      "n": 132
+    },
+    {
+      "role": "Data Scientist",
+      "p25": 54724.0,
+      "p50": 103691.0,
+      "p75": 140850.0,
+      "n": 143
+    },
+    {
+      "role": "Computer Vision Software Engineer",
+      "p25": 82873.0,
+      "p50": 95746.0,
+      "p75": 122873.0,
+      "n": 3
+    },
+    {
+      "role": "Data Analyst",
+      "p25": 62000.0,
+      "p50": 90320.0,
+      "p75": 116150.0,
+      "n": 97
+    },
+    {
+      "role": "Machine Learning Engineer",
+      "p25": 51064.0,
+      "p50": 87932.0,
+      "p75": 150000.0,
+      "n": 41
+    },
+    {
+      "role": "Lead Data Analyst",
+      "p25": 53304.5,
+      "p50": 87000.0,
+      "p75": 128500.0,
+      "n": 3
+    }
+  ]
+}

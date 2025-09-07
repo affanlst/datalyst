@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "generated_at": "2025-09-07T16:18:54.550706+00:00",
+    "model": "ibm-granite/granite-3.3-8b-instruct",
+    "format": "json",
+    "currency": "USD",
+    "source": "granite_repaired"
+  },
+  "bullets": [
+    "The median salary for Head of Data role is $200,000 with 25th percentile at $102,839 and 75th percentile at $230,000, based on a sample size (n) of 5.",
+    "For the US, the median salary is $135,000, with 25th percentile at $100,000 and 75th percentile at $170,000, calculated from 355 observations.",
+    "Data on different levels shows EX level median salary at $171,437.5, SE at $135,500, MI at $76,940, and EN at $56,500.",
+    "Salary trends indicate a median salary of $75,544 in 2020, rising to $82,528 in 2021 with sample sizes of 72 and 217 respectively.",
+    "From 2020 to 2022, the median salary grew by 58.8%, and from 2021 to 2022, it increased by 45.4%."
+  ],
+  "recommendation": "Given the data, organizations should consider competitive salary benchmarks, especially for Head of Data roles and senior positions like EX and SE, aligning with US trends. The significant salary growth from 2020 to 2022 (58.8%) suggests a dynamic market requiring regular salary reviews to remain attractive and competitive."
+}
