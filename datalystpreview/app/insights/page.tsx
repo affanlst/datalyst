@@ -21,7 +21,7 @@ export default async function InsightsPage() {
         <CardContent className="pt-6">
           <div className="text-sm text-muted-foreground space-y-2">
             <p>
-              <strong>AI Model:</strong> {insights.meta?.source || "IBM Granite"} • 
+              <strong>AI Model:</strong> {insights.meta?.model || insights.meta?.source || "IBM Granite"} • 
               <strong> Format:</strong> {insights.meta?.format || "text"} • 
               <strong> Currency:</strong> {insights.meta?.currency || "USD"}
             </p>

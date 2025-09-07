@@ -47,7 +47,7 @@ export default function Insights({ data }: InsightsProps) {
           </div>
         ) : (
           <pre className="text-sm whitespace-pre-wrap text-muted-foreground bg-muted p-3 rounded-md">
-            {JSON.stringify(data.insight || data, null, 2)}
+            {JSON.stringify(data, null, 2)}
           </pre>
         )}
       </CardContent>

@@ -6,8 +6,12 @@ import { ResponsiveContainer, BarChart, Bar, XAxis, YAxis, CartesianGrid, Toolti
 import { fmtUSD } from "@/lib/load";
 import { Info } from "lucide-react";
 
+interface DataPoint {
+  [key: string]: string | number;
+}
+
 interface BarValueProps {
-  data: any[];
+  data: DataPoint[];
   xKey: string;
   vKey: string;
   title: string;
@@ -62,10 +66,10 @@ export default function BarValue({ data, xKey, vKey, title, hint }: BarValueProp
             />
             <YAxis tickFormatter={(value) => fmtUSD(value)} />
             <RechartsTooltip 
-              formatter={(value: number, name: string, props: any) => [
+              formatter={(value: number, name: string, props) => [
                 fmtUSD(value), 
                 "Median Salary",
-                `(n=${props.payload.n || 'N/A'})`
+                `(n=${props?.payload?.n || 'N/A'})`
               ]}
               labelFormatter={(label) => `${xKey}: ${label}`}
             />
